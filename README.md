@@ -1,4 +1,4 @@
-#Commit Template
+# Commit Template
 
 **Page:** HackerRank
 **Problem:** Solve Me First
@@ -8,7 +8,7 @@
 **Points:** 1
 **Rank:** 598290
 
-##Important Information
+## Important Information
 git pull
 git checkout -b <your-git-usename>
 git add .
